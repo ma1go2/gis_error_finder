@@ -1,0 +1,4 @@
+geopandas==1.1.2
+sqlalchemy==2.0.34
+pandas==2.2.2
+psycopg2==2.9.10
